@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Aurelien0192/Aurelien0192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤗 ### Intro :
+ ### 🤗 Intro :
 
 Hi, my name is Aurelien and welcome to my Github
 I'm Javascript dev
